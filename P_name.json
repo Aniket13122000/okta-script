@@ -1,0 +1,24 @@
+[
+  {
+    "groups": [
+      "00gaa2lp9z6CO2Y9O5d7",
+      "00galm41u6KqhosLk5d7"
+    ],
+    "P_name": "MFA_Phone",
+    "P_priority": 1
+  },
+  {
+    "groups": [
+      "00gakjdtlqm4TAurc5d7"
+    ],
+    "P_name": "MFA_policy",
+    "P_priority": 2
+  },
+  {
+    "groups": [
+      "00g77bs092Ffz9L0s5d7"
+    ],
+    "P_name": "Default Policy",
+    "P_priority": 3
+  }
+]
